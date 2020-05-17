@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="autofollowup.net/public_html">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../vue_frontend" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kbc">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../vue_frontend" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="kbc.autofollowup.net">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../vue_frontend" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

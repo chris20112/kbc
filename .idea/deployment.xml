@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData">
+  <component name="PublishConfigData" uploadOnCheckin="b123f338-eefb-4e9c-946b-b1ebf381c406">
     <serverData>
       <paths name="autofollowup.net/public_html">
         <serverdata>
@@ -27,5 +27,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="autofollowup.net/public_html" />
   </component>
 </project>
